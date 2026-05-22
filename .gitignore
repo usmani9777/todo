@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+gs_tracker.db
+*.db-journal
+.streamlit/secrets.toml
